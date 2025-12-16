@@ -1,2 +1,2 @@
 # prompts
-reposidtório de prompts para necessidades do dia a dia appsec/devsecops
+repositório de prompts para necessidades do dia a dia appsec/devsecops
